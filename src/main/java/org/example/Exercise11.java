@@ -10,6 +10,7 @@ public class Exercise11 {
         }
         for(char c : s_chars){
             System.out.print(c + " ");
+            
         }
     }
 }
