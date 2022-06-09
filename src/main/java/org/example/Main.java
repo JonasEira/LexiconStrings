@@ -10,5 +10,7 @@ public class Main {
         Exercise2 ex2 = new Exercise2();
 
         Exercise3 ex3 = new Exercise3();
+
+        Exercise4 ex4 = new Exercise4();
     }
 }
