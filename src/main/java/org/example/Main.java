@@ -22,5 +22,8 @@ public class Main {
         Exercise8 ex8 = new Exercise8();
 
         Exercise9 ex9 = new Exercise9();
+
+        Exercise10 ex10 = new Exercise10();
+
     }
 }
