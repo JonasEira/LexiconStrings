@@ -5,5 +5,7 @@ public class Main {
         System.out.println("First String in exercise");
         Exercise1 ex1 = new Exercise1();
         ex1.printStrLen("Java");
+
+        Exercise2 ex2 = new Exercise2();
     }
 }
